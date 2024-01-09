@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been in the coding industry for around 5 years now, during this time I've completed a computer science degree achieving a 2:1, and gained 2 and a half years of experience as a software developer for a local government.
+I've been in the coding industry for around 5 years now, during this time I've completed a computer science degree achieving a 2:1, and gained 2 and a half years of experience as a software developer for a local UK Council.
 
 * 🌍  I'm based in Huddersfield, UK
 * ✉️  You can contact me at [mackenzie050598@gmail.com](mailto:mackenzie050598@gmail.com)
