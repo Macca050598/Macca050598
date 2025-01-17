@@ -34,11 +34,7 @@ Recent Projects:
 - AI Integration Platform (Next.js)
 - Dog Training Mobile App (React Native)
 - Enterprise CRM Portal (C#)
-- Various Python Applications:
-- Personal Finance Tracker
-- Password Generator
-- Flashcard App
-- Portfolio Website
+- Various Python Applications: Personal Finance Tracker / Password Generator / Flashcard App / Portfolio Website
 
 * 🌍  I'm based in Huddersfield, UK
 * ✉️  You can contact me at [mackenzie050598@gmail.com](mailto:mackenzie050598@gmail.com)
