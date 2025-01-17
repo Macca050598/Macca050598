@@ -34,7 +34,7 @@ Recent Projects:
 - AI Integration Platform (Next.js)
 - Dog Training Mobile App (React Native)
 - Enterprise CRM Portal (C#)
-Various Python Applications:
+- Various Python Applications:
 - Personal Finance Tracker
 - Password Generator
 - Flashcard App
