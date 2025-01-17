@@ -9,37 +9,36 @@ I'm a Full Stack Developer with 4+ years of experience in building enterprise-le
 
 Professional Highlights:
 
-Led full migration of government websites from Umbraco 7 to Umbraco 13
-Developed CRM portal serving 10,000+ active users
-Founded and operate a successful digital marketing agency
-Built AI integration platform using Next.js
-Created cross-platform mobile applications using React Native
+- Led full migration of government websites from Umbraco 7 to Umbraco 13 
+- Developed CRM portal serving 10,000+ active users
+- Founded and operate a successful digital marketing agency
+- Built AI integration platform using Next.js
+- Created cross-platform mobile applications using React Native
 
 Tech Stack:
 
-Frontend: React, Next.js, React Native
-Backend: C#, Python, PHP
-CMS: Umbraco, WordPress
-Other: Digital Marketing, SEO, Social Media Advertising
+- Frontend: React, Next.js, React Native
+- Backend: C#, Python, PHP
+- CMS: Umbraco, WordPress
+- Other: Digital Marketing, SEO, Social Media Advertising
 
 Current Focus:
 
-Expanding Python expertise
-Mastering algorithms and data structures
-Exploring distributed systems
-Building full-stack applications
+- Expanding Python expertise
+- Mastering algorithms and data structures
+- Exploring distributed systems
+- Building full-stack applications
 
-🌱 Recent Projects
+Recent Projects:
 
-AI Integration Platform (Next.js)
-Dog Training Mobile App (React Native)
-Enterprise CRM Portal (C#)
+- AI Integration Platform (Next.js)
+- Dog Training Mobile App (React Native)
+- Enterprise CRM Portal (C#)
 Various Python Applications:
-
-Personal Finance Tracker
-Password Generator
-Flashcard App
-Portfolio Website
+- Personal Finance Tracker
+- Password Generator
+- Flashcard App
+- Portfolio Website
 
 * 🌍  I'm based in Huddersfield, UK
 * ✉️  You can contact me at [mackenzie050598@gmail.com](mailto:mackenzie050598@gmail.com)
