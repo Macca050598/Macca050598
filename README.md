@@ -13,7 +13,7 @@ Professional Highlights:
 - Developed CRM portal serving 10,000+ active users
 - Founded and operate a successful digital marketing agency
 - Built AI integration platform using Next.js
-- Created cross-platform mobile applications using React Native
+- Created IOS mobile App using React Native
 
 Tech Stack:
 
