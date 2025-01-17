@@ -38,7 +38,7 @@ Recent Projects:
 
 * 🌍  I'm based in Huddersfield, UK
 * ✉️  You can contact me at [mackenzie050598@gmail.com](mailto:mackenzie050598@gmail.com)
-* 🚀  I'm currently working on [Running my own digital marketing agency](http://mjweb.ltd)
+* 🚀  In my spare time I help small - medium businesses with digital their digital marketing [Running my own digital marketing agency](http://mjweb.ltd)
 
 ### Socials
 
