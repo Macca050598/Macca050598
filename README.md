@@ -11,7 +11,7 @@ Professional Highlights:
 
 - Lead developer maintaining high-traffic regional tansport and goverment websites (wymetro.com and westyorks-ca.gov.uk)
 - Led full migration / rebuild of government websites from Umbraco 7 to Umbraco 13 (westyorks-ca.gov.uk)
-- Developed CRM portal serving 10,000+ active participants data (Internal company website)
+- Developed CRM portal which is used by the 5 westyorkshire distric councils and holds 10,000+ active participants data (Internal company website)
 - Created an IOS mobile App using React Native (puppypottypal.com)
 - Founded and operate a successful digital marketing agency (mjweb.ltd)
 - Built AI integration platform using Next.js (virtuai.cloud)
