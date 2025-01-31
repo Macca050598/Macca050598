@@ -5,15 +5,16 @@ Software Developer
 ------------------
 
 Hi there 👋
-I'm a Full Stack Developer with 4+ years of experience in building enterprise-level applications and managing digital projects. I specialize in creating scalable solutions and have a proven track record of delivering complex systems serving thousands of users.
+I'm a Full Stack Developer with 4+ years of experience in building enterprise-level applications and managing digital projects. I specialise in creating scalable solutions and have a proven track record of delivering complex systems serving thousands of users.
 
 Professional Highlights:
 
-- Led full migration of government websites from Umbraco 7 to Umbraco 13 
-- Developed CRM portal serving 10,000+ active users
-- Founded and operate a successful digital marketing agency
-- Built AI integration platform using Next.js
-- Created IOS mobile App using React Native
+- Lead developer maintaining high-traffic regional tansport and goverment websites (wymetro.com and westyorks-ca.gov.uk)
+- Led full migration / rebuild of government websites from Umbraco 7 to Umbraco 13 (westyorks-ca.gov.uk)
+- Developed CRM portal serving 10,000+ active participants data
+- Created an IOS mobile App using React Native (puppypottypal.com)
+- Founded and operate a successful digital marketing agency (mjweb.ltd)
+- Built AI integration platform using Next.js (virtuai.cloud)
 
 Tech Stack:
 
@@ -21,20 +22,6 @@ Tech Stack:
 - Backend: C#, Python, PHP
 - CMS: Umbraco, WordPress
 - Other: Digital Marketing, SEO, Social Media Advertising
-
-Current Focus:
-
-- Expanding Python expertise
-- Mastering algorithms and data structures
-- Exploring distributed systems
-- Building full-stack applications
-
-Recent Projects:
-
-- AI Integration Platform (Next.js)
-- Dog Training Mobile App (React Native)
-- Enterprise CRM Portal (C#)
-- Various Python Applications: Personal Finance Tracker / Password Generator / Flashcard App / Portfolio Website
 
 * 🌍  I'm based in Huddersfield, UK
 * ✉️  You can contact me at [mackenzie050598@gmail.com](mailto:mackenzie050598@gmail.com)
