@@ -21,7 +21,7 @@ Tech Stack:
 - Frontend: React, Next.js, React Native
 - Backend: C#, Python, PHP
 - CMS: Umbraco, WordPress
-- Other: Digital Marketing, SEO, Social Media Advertising
+- Other: Azure and Digital Marketing (SEO, Social Media Advertising, PPC Ads, Copywriting)
 
 Information:
 
