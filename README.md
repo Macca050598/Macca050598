@@ -15,6 +15,7 @@ Professional Highlights:
 - Developed CRM portal which is used by the 5 WestYorkshire district councils and holds 10,000+ active participants data (Internal company website)
 - Founded and operate a successful digital marketing agency (mjweb.ltd)
 - Built AI integration platform using Next.js (virtuai.cloud)
+- Built a Custom Alexa Skill
 
 Tech Stack:
 
